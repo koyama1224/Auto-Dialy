@@ -1,0 +1,1 @@
+goal for this project : automatically outputs daily-diary
